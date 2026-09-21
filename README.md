@@ -1,0 +1,2 @@
+# quantum_mechanics_computation_assisted_by_llm
+llm assisted qm calculation
